@@ -6,11 +6,9 @@ Steps:
 3. Load the IPython notebook file to the Google Colab or Jupyter notebook.
 4. Place the dataset path: # Load dataset data = pd.read_csv('dataset path')
 5. Run the cells one by one.
-6. You will notice the result given below: For Only CatBoost Classifier
+6. You will notice the result given below:
    
-## 📊 Evaluating CatBoost
-
-### Final Mean Performance
+## 📊 Only CatBoost
 
 | Model    | Train Accuracy | Train F-score | Train Precision | Train Recall | Test Accuracy | Test F-score | Test Precision | Test Recall |
 |----------|----------------|---------------|-----------------|--------------|---------------|--------------|----------------|-------------|
