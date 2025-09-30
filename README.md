@@ -1,4 +1,4 @@
-# Thyroid Cancer Recurrence Prediction
+# Paper Title: Catboost with Physics-based Metaheuristics for Thyroid Cancer Recurrence Prediction
 
 Steps:
 1. Download the dataset (Thyroid_Diff.csv)
@@ -24,3 +24,6 @@ Steps:
 | EO    | 97.01          | 94.65          | 96.00           | 93.39        | 96.17         | 93.12         | 94.31          | 92.21       |
 | EFO   | **97.61**      | **95.63**      | **97.78**       | **93.59**    | 96.17         | 93.09         | **95.78**      | 91.15       |
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+The GitHub repository contains the data preparation, fold generation, and final model configuration codes. As the optimization code requires considerable computational time, it has not been included in the repository. However, the optimization code is available from the corresponding author upon reasonable request.
